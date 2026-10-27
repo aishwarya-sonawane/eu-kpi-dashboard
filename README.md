@@ -56,7 +56,7 @@ All data is from **Eurostat**, the statistical office of the European Union. Ind
 ## Run Locally
 
 ```bash
-git clone https://github.com/aishwaryasanjaysonawane-a11y/eu-kpi-dashboard.git
+git clone https://github.com/aishwarya-sonawane/eu-kpi-dashboard.git
 cd eu-kpi-dashboard
 pip install -r requirements.txt
 streamlit run app.py
@@ -82,7 +82,7 @@ eu-kpi-dashboard/
 ## Author
 
 **Aishwarya Sonawane** — M.Eng. student, Technology & Innovation Management  
-[Portfolio](https://aishwaryasanjaysonawane-a11y.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/aishwarya-sonawane) · [GitHub](https://github.com/aishwaryasanjaysonawane-a11y)
+[Portfolio](https://aishwarya-sonawane.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/aishwarya-sonawane) · [GitHub](https://github.com/aishwarya-sonawane)
 
 ## License
 

@@ -150,7 +150,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("""
 **Data Source:** Eurostat  
 **Author:** [Aishwarya Sonawane](https://linkedin.com/in/aishwarya-sonawane)  
-**Code:** [GitHub](https://github.com/aishwaryasanjaysonawane-a11y)
+**Code:** [GitHub](https://github.com/aishwarya-sonawane)
 """)
 
 # Filter data
@@ -288,7 +288,7 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align:center; color:#888; font-size:0.8rem;'>
 Built by Aishwarya Sonawane · Data from Eurostat · 
-<a href='https://github.com/aishwaryasanjaysonawane-a11y' style='color:#2B579A;'>GitHub</a> · 
-<a href='https://aishwaryasanjaysonawane-a11y.github.io/Portfolio/' style='color:#2B579A;'>Portfolio</a>
+<a href='https://github.com/aishwarya-sonawane' style='color:#2B579A;'>GitHub</a> · 
+<a href='https://aishwarya-sonawane.github.io/Portfolio/' style='color:#2B579A;'>Portfolio</a>
 </div>
 """, unsafe_allow_html=True)
