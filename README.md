@@ -21,11 +21,10 @@ Tracks 4 key economic indicators across major EU economies:
 
 Interactive filters let you select countries, time ranges, and switch between metrics. The dashboard updates all charts in real-time.
 
-## Screenshots
+## Views
 
-| KPI Cards + Line Chart | Heatmap + Scatter |
-|---|---|
-| Filter by country, year range, and metric. KPI cards show year-over-year change. | GDP heatmap reveals post-COVID recovery patterns. Scatter shows GDP vs unemployment correlation. |
+- **KPI cards + line chart:** filter by country, year range and metric; cards show year-over-year change.
+- **Heatmap + scatter:** the GDP heatmap shows post-COVID recovery patterns; the scatter plots GDP growth against unemployment.
 
 ## Why I Built This
 
@@ -82,7 +81,7 @@ eu-kpi-dashboard/
 ## Author
 
 **Aishwarya Sonawane** — M.Eng. student, Technology & Innovation Management  
-[Portfolio](https://aishwarya-sonawane.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/aishwarya-sonawane) · [GitHub](https://github.com/aishwarya-sonawane)
+[Portfolio](https://aishwarya-sonawane.vercel.app) · [LinkedIn](https://www.linkedin.com/in/aishwarya-s18) · [GitHub](https://github.com/aishwarya-sonawane)
 
 ## License
 
