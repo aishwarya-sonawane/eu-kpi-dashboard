@@ -6,10 +6,6 @@ An interactive dashboard tracking key economic indicators across 10 EU countries
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🔗 Live Demo
-
-**[→ Open Dashboard](https://eu-kpi-dashboard.streamlit.app)** *(deploy your own — see below)*
-
 ## What It Does
 
 Tracks 4 key economic indicators across major EU economies:
